@@ -233,17 +233,15 @@ Power BI → Visualization
 
 #### Page 1 — Operational Risk Command Center
 
-![Operational Risk Command Center](screenshots/Command%20centre.png)
+![Operational Risk Command Center](./screenshots/Command%20centre.png)
 
 #### Page 2 — Risk Driver & Loss Analysis
 
-![Risk Driver & Loss Analysis](screenshots/Risk%20analysis.png)
+![Risk Driver & Loss Analysis](./screenshots/Risk%20analysis.png)
 
 #### Page 3 — GenAI Risk Intelligence
 
-![GenAI Risk Intelligence](PASTE_THE_RAW_URL_HERE)
-
-
+![GenAI Risk Intelligence](./screenshots/GenAI%20insight.png)
 
 
 
