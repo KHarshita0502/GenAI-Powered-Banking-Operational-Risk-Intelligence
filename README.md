@@ -226,10 +226,24 @@ Python → Analysis
 
 SQL → Validation
 
-Power BI → Visualization
+Power BI → Visualization 
+
+
+### Dashboard Screenshots
+
+#### Page 1 — Operational Risk Command Center
+
+![Operational Risk Command Center](screenshots/Command%20centre.png)
+
+#### Page 2 — Risk Driver & Loss Analysis
+
+![Risk Driver & Loss Analysis](screenshots/Risk%20analysis.png)
+
+#### Page 3 — GenAI Risk Intelligence
+
+![GenAI Risk Intelligence](PASTE_THE_RAW_URL_HERE)
 
 
 
-Analyst → Final Review
 
 
