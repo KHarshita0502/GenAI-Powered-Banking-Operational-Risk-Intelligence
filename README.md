@@ -228,7 +228,7 @@ SQL → Validation
 
 Power BI → Visualization
 
-GenAI → Interpretation
+
 
 Analyst → Final Review
 
