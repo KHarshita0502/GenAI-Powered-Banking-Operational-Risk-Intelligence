@@ -241,7 +241,6 @@ Power BI → Visualization
 
 #### Page 3 — GenAI Risk Intelligence
 
-![GenAI Risk Intelligence](./screenshots/GenAi%20insight.png)
-
+![GenAI Risk Intelligence](./screenshots/GenAI.png)
 
 
